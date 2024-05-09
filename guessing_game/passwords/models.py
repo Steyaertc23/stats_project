@@ -1,12 +1,11 @@
 from django.db import models
 from django.core.validators import MinLengthValidator
-from django.conf import settings
-
+from django.contrib.auth.models import User
 # Create your models here.
 
 class GGUser(models.Model):
     user = models.OneToOneField(
-        settings.AUTH_USER_MODEL,
+        User,
         on_delete=models.CASCADE,
     )
 
@@ -15,7 +14,7 @@ class GGPassword(models.Model):
     pw = models.TextField(validators=[MinLengthValidator(4, "the field must be 4 characters")], max_length=4)
 
     def __str__(self) -> str:
-        return f'{self.password}'
+        return f'{self.pw}'
     
 class PasswordGuess(models.Model):
     guess = models.TextField(validators=[MinLengthValidator(4, "the field must be 4 characters")], max_length=4, blank=True)
