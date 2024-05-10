@@ -8,6 +8,7 @@ from .forms import GuessPasswordForm
 @login_required(login_url='/auth')
 def home(request):
     current_user = request.user.pk
+    
     return HttpResponse(f"<h1>{current_user}</h1>")
 
 
