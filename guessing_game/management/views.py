@@ -16,9 +16,10 @@ def check_guessed_passwords(user:User):
 
 # Create your views here.
 
-@user_passes_test(lambda user: user.is_superuser)
+@user_passes_test(lambda user: user.is_superuser, login_url='login_redirect')
 def generate_records(request):
-    if len(User.objects.all()-2) == 60:
+    number_of_responses = len(User.objects.all())-2
+    if  number_of_responses== 60:
         wb = load_workbook(path.join(settings.BASE_DIR, "Password_guessing_game_results_stags.xlsx"))
         ws = wb['Results']
         ws["A1"] = "First Name"
@@ -35,7 +36,7 @@ def generate_records(request):
         wb.save(path.join(settings.BASE_DIR, "Password_guessing_game_results_stags.xlsx"))
         return render(request, 'management/generate_records.html')
     #else:
-    return HttpResponse("There Aren't 60 Responses Yet...")
+    return HttpResponse(f"There Aren't 60 Responses Yet..., only {number_of_responses}")
 
 
 def send_file(request):

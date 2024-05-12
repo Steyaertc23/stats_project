@@ -9,7 +9,11 @@ body{
     height: 100dvh;
     overflow: hidden;
     background-image: url("/static/background.png");
-    background-size: 100%;
+    background-size: 70vw;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: -10vh;
+    background-color: #000;
 }
 
 .content{
@@ -17,7 +21,7 @@ body{
     width: 25dvw;
     padding: 5%;
     border-radius: 5%;
-    background-color: rgba(0,0,0,0.3);
+    background-color: rgba(0, 0, 0, 0.402);
     overflow-y: hidden;
 }
 
@@ -42,6 +46,7 @@ button[type=submit], input[type=text], input[type=password]{
 .content input[type=text], input[type=password]{
     width: 13dvw;
     background: rgba(0,0,0,0.6);
+    color: white;
 }
 
 #div_id_password #div_id_username{
