@@ -11,8 +11,8 @@ class GuessPasswordModel(models.Model):
         return f'{self.pw}'
     
 class PasswordGuess(models.Model):
-    guess = models.TextField(validators=[MinLengthValidator(4, "the field must be 4 characters")], max_length=4, blank=True)
-    password = models.OneToOneField(GuessPasswordModel, on_delete=models.CASCADE)
+    user = models.ForeignKey(User, on_delete=models.CASCADE, null=True)
+    guess = models.TextField(validators=[MinLengthValidator(4, "the field must be 4 characters")], max_length=4, default="0000")
 
     def __str__(self) -> str:
         return f'{self.guess}'

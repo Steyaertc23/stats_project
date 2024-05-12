@@ -21,6 +21,5 @@ from register.views import login
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('passwords.urls')),
-    path('auth/', login, name='login_redirect'),
-    path('auth/', include('django.contrib.auth.urls'))
+    path('auth/', include('register.urls'))
 ]
