@@ -922,7 +922,16 @@
         "kind": 5,
         "importPath": "guessing_game.guessing_game.wsgi",
         "description": "guessing_game.guessing_game.wsgi",
-        "peekOfCode": "application = get_wsgi_application()",
+        "peekOfCode": "application = get_wsgi_application()\napp = application",
+        "detail": "guessing_game.guessing_game.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "guessing_game.guessing_game.wsgi",
+        "description": "guessing_game.guessing_game.wsgi",
+        "peekOfCode": "app = application",
         "detail": "guessing_game.guessing_game.wsgi",
         "documentation": {}
     },
