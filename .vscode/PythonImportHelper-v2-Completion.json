@@ -1,0 +1,1181 @@
+[
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "environ",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "staticfiles_urlpatterns",
+        "importPath": "django.contrib.staticfiles.urls",
+        "description": "django.contrib.staticfiles.urls",
+        "isExtraImport": true,
+        "detail": "django.contrib.staticfiles.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "user_passes_test",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "load_workbook",
+        "importPath": "openpyxl",
+        "description": "openpyxl",
+        "isExtraImport": true,
+        "detail": "openpyxl",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "django.core.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "MinLengthValidator",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "randint",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "seed",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.10/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.10/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.10/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.10/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.10/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"../lib/python3.10/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "guessing_game.guessing_game.asgi",
+        "description": "guessing_game.guessing_game.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "guessing_game.guessing_game.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "guessing_game.guessing_game.settings",
+        "description": "guessing_game.guessing_game.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-707sq(8gdy0fy8a=9&av5ao5llm1-r$m5*uhizsq&q$dsx9np2'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['*']\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "guessing_game.guessing_game.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "guessing_game.guessing_game.settings",
+        "description": "guessing_game.guessing_game.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-707sq(8gdy0fy8a=9&av5ao5llm1-r$m5*uhizsq&q$dsx9np2'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['*']\n# Application definition\nINSTALLED_APPS = [\n    'passwords.apps.PasswordsConfig',\n    'register.apps.RegisterConfig',\n    'management.apps.ManagementConfig',\n    'django.contrib.admin',",
+        "detail": "guessing_game.guessing_game.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "guessing_game.guessing_game.settings",
+        "description": "guessing_game.guessing_game.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = ['*']\n# Application definition\nINSTALLED_APPS = [\n    'passwords.apps.PasswordsConfig',\n    'register.apps.RegisterConfig',\n    'management.apps.ManagementConfig',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "detail": "guessing_game.guessing_game.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "guessing_game.guessing_game.settings",
+        "description": "guessing_game.guessing_game.settings",
+        "peekOfCode": "ALLOWED_HOSTS = ['*']\n# Application definition\nINSTALLED_APPS = [\n    'passwords.apps.PasswordsConfig',\n    'register.apps.RegisterConfig',\n    'management.apps.ManagementConfig',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "guessing_game.guessing_game.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "guessing_game.guessing_game.settings",
+        "description": "guessing_game.guessing_game.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'passwords.apps.PasswordsConfig',\n    'register.apps.RegisterConfig',\n    'management.apps.ManagementConfig',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "guessing_game.guessing_game.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "guessing_game.guessing_game.settings",
+        "description": "guessing_game.guessing_game.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'whitenoise.middleware.WhiteNoiseMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "guessing_game.guessing_game.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "guessing_game.guessing_game.settings",
+        "description": "guessing_game.guessing_game.settings",
+        "peekOfCode": "ROOT_URLCONF = 'guessing_game.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR / 'templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "guessing_game.guessing_game.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "guessing_game.guessing_game.settings",
+        "description": "guessing_game.guessing_game.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR / 'templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "guessing_game.guessing_game.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "guessing_game.guessing_game.settings",
+        "description": "guessing_game.guessing_game.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'guessing_game.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "guessing_game.guessing_game.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "guessing_game.guessing_game.settings",
+        "description": "guessing_game.guessing_game.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "guessing_game.guessing_game.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "guessing_game.guessing_game.settings",
+        "description": "guessing_game.guessing_game.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "guessing_game.guessing_game.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "guessing_game.guessing_game.settings",
+        "description": "guessing_game.guessing_game.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_ROOT = path.abspath(path.join(BASE_DIR,'staticfiles'))\nSTATIC_URL = '/static/'\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedStaticFilesStorage'\nSTATIC_FILES_DIRS = (",
+        "detail": "guessing_game.guessing_game.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "guessing_game.guessing_game.settings",
+        "description": "guessing_game.guessing_game.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_ROOT = path.abspath(path.join(BASE_DIR,'staticfiles'))\nSTATIC_URL = '/static/'\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedStaticFilesStorage'\nSTATIC_FILES_DIRS = (\n    path.join(BASE_DIR, 'passwords', 'static'),",
+        "detail": "guessing_game.guessing_game.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "guessing_game.guessing_game.settings",
+        "description": "guessing_game.guessing_game.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_ROOT = path.abspath(path.join(BASE_DIR,'staticfiles'))\nSTATIC_URL = '/static/'\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedStaticFilesStorage'\nSTATIC_FILES_DIRS = (\n    path.join(BASE_DIR, 'passwords', 'static'),\n    path.join(BASE_DIR, 'register', 'static')",
+        "detail": "guessing_game.guessing_game.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "guessing_game.guessing_game.settings",
+        "description": "guessing_game.guessing_game.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_ROOT = path.abspath(path.join(BASE_DIR,'staticfiles'))\nSTATIC_URL = '/static/'\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedStaticFilesStorage'\nSTATIC_FILES_DIRS = (\n    path.join(BASE_DIR, 'passwords', 'static'),\n    path.join(BASE_DIR, 'register', 'static')\n)",
+        "detail": "guessing_game.guessing_game.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "guessing_game.guessing_game.settings",
+        "description": "guessing_game.guessing_game.settings",
+        "peekOfCode": "STATIC_ROOT = path.abspath(path.join(BASE_DIR,'staticfiles'))\nSTATIC_URL = '/static/'\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedStaticFilesStorage'\nSTATIC_FILES_DIRS = (\n    path.join(BASE_DIR, 'passwords', 'static'),\n    path.join(BASE_DIR, 'register', 'static')\n)\nCRISPY_TEMPLATE_PACK = 'foundation-6'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field",
+        "detail": "guessing_game.guessing_game.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "guessing_game.guessing_game.settings",
+        "description": "guessing_game.guessing_game.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedStaticFilesStorage'\nSTATIC_FILES_DIRS = (\n    path.join(BASE_DIR, 'passwords', 'static'),\n    path.join(BASE_DIR, 'register', 'static')\n)\nCRISPY_TEMPLATE_PACK = 'foundation-6'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "guessing_game.guessing_game.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_STORAGE",
+        "kind": 5,
+        "importPath": "guessing_game.guessing_game.settings",
+        "description": "guessing_game.guessing_game.settings",
+        "peekOfCode": "STATICFILES_STORAGE = 'whitenoise.storage.CompressedStaticFilesStorage'\nSTATIC_FILES_DIRS = (\n    path.join(BASE_DIR, 'passwords', 'static'),\n    path.join(BASE_DIR, 'register', 'static')\n)\nCRISPY_TEMPLATE_PACK = 'foundation-6'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_REDIRECT_URL = 'home'",
+        "detail": "guessing_game.guessing_game.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_FILES_DIRS",
+        "kind": 5,
+        "importPath": "guessing_game.guessing_game.settings",
+        "description": "guessing_game.guessing_game.settings",
+        "peekOfCode": "STATIC_FILES_DIRS = (\n    path.join(BASE_DIR, 'passwords', 'static'),\n    path.join(BASE_DIR, 'register', 'static')\n)\nCRISPY_TEMPLATE_PACK = 'foundation-6'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_REDIRECT_URL = 'home'\nLOGOUT_REDIRECT_URL='thanks'",
+        "detail": "guessing_game.guessing_game.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CRISPY_TEMPLATE_PACK",
+        "kind": 5,
+        "importPath": "guessing_game.guessing_game.settings",
+        "description": "guessing_game.guessing_game.settings",
+        "peekOfCode": "CRISPY_TEMPLATE_PACK = 'foundation-6'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_REDIRECT_URL = 'home'\nLOGOUT_REDIRECT_URL='thanks'",
+        "detail": "guessing_game.guessing_game.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "guessing_game.guessing_game.settings",
+        "description": "guessing_game.guessing_game.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_REDIRECT_URL = 'home'\nLOGOUT_REDIRECT_URL='thanks'",
+        "detail": "guessing_game.guessing_game.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "guessing_game.guessing_game.settings",
+        "description": "guessing_game.guessing_game.settings",
+        "peekOfCode": "LOGIN_REDIRECT_URL = 'home'\nLOGOUT_REDIRECT_URL='thanks'",
+        "detail": "guessing_game.guessing_game.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "guessing_game.guessing_game.urls",
+        "description": "guessing_game.guessing_game.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('passwords.urls')),\n    path('auth/', include('register.urls')),\n    path('management/', include('management.urls'))\n] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)\nurlpatterns += staticfiles_urlpatterns()",
+        "detail": "guessing_game.guessing_game.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "guessing_game.guessing_game.wsgi",
+        "description": "guessing_game.guessing_game.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "guessing_game.guessing_game.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "ManagementConfig",
+        "kind": 6,
+        "importPath": "guessing_game.management.apps",
+        "description": "guessing_game.management.apps",
+        "peekOfCode": "class ManagementConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'management'",
+        "detail": "guessing_game.management.apps",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "guessing_game.management.urls",
+        "description": "guessing_game.management.urls",
+        "peekOfCode": "urlpatterns = [\n    path('dl/no-guess/', send_file, name='downloaded'),\n    path('', generate_records, name='generate_records')\n]",
+        "detail": "guessing_game.management.urls",
+        "documentation": {}
+    },
+    {
+        "label": "check_guessed_passwords",
+        "kind": 2,
+        "importPath": "guessing_game.management.views",
+        "description": "guessing_game.management.views",
+        "peekOfCode": "def check_guessed_passwords(user:User):\n    correct = 0\n    for i, pw in enumerate(user.guesspasswordmodel_set.all()):\n        guessed = user.guesspasswordmodel_set.get(pk=i+1)\n        if pw.strip() == guessed.strip():\n            correct += 1\n    return correct\n# Create your views here.\n@user_passes_test(lambda user: user.is_superuser, login_url='login_redirect')\ndef generate_records(request):",
+        "detail": "guessing_game.management.views",
+        "documentation": {}
+    },
+    {
+        "label": "generate_records",
+        "kind": 2,
+        "importPath": "guessing_game.management.views",
+        "description": "guessing_game.management.views",
+        "peekOfCode": "def generate_records(request):\n    number_of_responses = len(User.objects.all())-2\n    if  number_of_responses== 60:\n        wb = load_workbook(path.join(settings.BASE_DIR, \"Password_guessing_game_results_stags.xlsx\"))\n        ws = wb['Results']\n        ws[\"A1\"] = \"First Name\"\n        ws[\"B1\"] = \"Last Name\"\n        ws[\"C1\"] = \"Number of Correct passwords guessed\"\n        for i, user in enumerate(User.objects.all()[2::]):\n            correct = check_guessed_passwords(user)",
+        "detail": "guessing_game.management.views",
+        "documentation": {}
+    },
+    {
+        "label": "send_file",
+        "kind": 2,
+        "importPath": "guessing_game.management.views",
+        "description": "guessing_game.management.views",
+        "peekOfCode": "def send_file(request):\n    import os, mimetypes\n    from wsgiref.util import FileWrapper\n    from django.conf import settings\n    filename     = os.path.join(settings.BASE_DIR, \"Password_guessing_game_results_stags.xlsx\")\n    download_name = \"Password_guessing_game_results_stags.xlsx\"\n    wrapper      = FileWrapper(open(filename, 'rb'))\n    content_type = mimetypes.guess_type(filename)[0]\n    response     = HttpResponse(wrapper,content_type=content_type)\n    response['Content-Length']      = os.path.getsize(filename)    ",
+        "detail": "guessing_game.management.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "guessing_game.passwords.migrations.0001_initial",
+        "description": "guessing_game.passwords.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Password',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('password', models.TextField(max_length=4, validators=[django.core.validators.MinLengthValidator(4, 'the field must be 4 characters')])),",
+        "detail": "guessing_game.passwords.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "guessing_game.passwords.migrations.0002_ggpassword_alter_passwordguess_password_and_more",
+        "description": "guessing_game.passwords.migrations.0002_ggpassword_alter_passwordguess_password_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('passwords', '0001_initial'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='GGPassword',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "guessing_game.passwords.migrations.0002_ggpassword_alter_passwordguess_password_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "guessing_game.passwords.migrations.0003_alter_ggpassword_user",
+        "description": "guessing_game.passwords.migrations.0003_alter_ggpassword_user",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('passwords', '0002_ggpassword_alter_passwordguess_password_and_more'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='ggpassword',\n            name='user',\n            field=models.ForeignKey(blank=True, on_delete=django.db.models.deletion.CASCADE, to=settings.AUTH_USER_MODEL),",
+        "detail": "guessing_game.passwords.migrations.0003_alter_ggpassword_user",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "guessing_game.passwords.migrations.0004_gguser_alter_ggpassword_user",
+        "description": "guessing_game.passwords.migrations.0004_gguser_alter_ggpassword_user",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('passwords', '0003_alter_ggpassword_user'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='GGUser',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "guessing_game.passwords.migrations.0004_gguser_alter_ggpassword_user",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "guessing_game.passwords.migrations.0005_alter_passwordguess_guess",
+        "description": "guessing_game.passwords.migrations.0005_alter_passwordguess_guess",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('passwords', '0004_gguser_alter_ggpassword_user'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='passwordguess',\n            name='guess',\n            field=models.TextField(blank=True, max_length=4, validators=[django.core.validators.MinLengthValidator(4, 'the field must be 4 characters')]),\n        ),",
+        "detail": "guessing_game.passwords.migrations.0005_alter_passwordguess_guess",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "guessing_game.passwords.migrations.0006_alter_ggpassword_user_delete_gguser",
+        "description": "guessing_game.passwords.migrations.0006_alter_ggpassword_user_delete_gguser",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('passwords', '0005_alter_passwordguess_guess'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='ggpassword',\n            name='user',\n            field=models.ForeignKey(blank=True, on_delete=django.db.models.deletion.CASCADE, to=settings.AUTH_USER_MODEL),",
+        "detail": "guessing_game.passwords.migrations.0006_alter_ggpassword_user_delete_gguser",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "guessing_game.passwords.migrations.0007_rename_ggpassword_guesspasswordmodel",
+        "description": "guessing_game.passwords.migrations.0007_rename_ggpassword_guesspasswordmodel",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('passwords', '0006_alter_ggpassword_user_delete_gguser'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.RenameModel(\n            old_name='GGPassword',\n            new_name='GuessPasswordModel',\n        ),",
+        "detail": "guessing_game.passwords.migrations.0007_rename_ggpassword_guesspasswordmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "guessing_game.passwords.migrations.0008_remove_passwordguess_password_passwordguess_user_and_more",
+        "description": "guessing_game.passwords.migrations.0008_remove_passwordguess_password_passwordguess_user_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('passwords', '0007_rename_ggpassword_guesspasswordmodel'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='passwordguess',\n            name='password',\n        ),",
+        "detail": "guessing_game.passwords.migrations.0008_remove_passwordguess_password_passwordguess_user_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordsConfig",
+        "kind": 6,
+        "importPath": "guessing_game.passwords.apps",
+        "description": "guessing_game.passwords.apps",
+        "peekOfCode": "class PasswordsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'passwords'",
+        "detail": "guessing_game.passwords.apps",
+        "documentation": {}
+    },
+    {
+        "label": "GuessPasswordForm",
+        "kind": 6,
+        "importPath": "guessing_game.passwords.forms",
+        "description": "guessing_game.passwords.forms",
+        "peekOfCode": "class GuessPasswordForm(forms.Form):\n    guess = forms.CharField(max_length=4, min_length=4, widget=forms.TextInput(attrs={'placeholder':'Password'}))",
+        "detail": "guessing_game.passwords.forms",
+        "documentation": {}
+    },
+    {
+        "label": "GuessPasswordModel",
+        "kind": 6,
+        "importPath": "guessing_game.passwords.models",
+        "description": "guessing_game.passwords.models",
+        "peekOfCode": "class GuessPasswordModel(models.Model):\n    user = models.ForeignKey(User, on_delete=models.CASCADE, blank=True)\n    pw = models.TextField(validators=[MinLengthValidator(4, \"the field must be 4 characters\")], max_length=4)\n    def __str__(self) -> str:\n        return f'{self.pw}'\nclass PasswordGuess(models.Model):\n    user = models.ForeignKey(User, on_delete=models.CASCADE, null=True)\n    guess = models.TextField(validators=[MinLengthValidator(4, \"the field must be 4 characters\")], max_length=4, default=\"0000\")\n    def __str__(self) -> str:\n        return f'{self.guess}'",
+        "detail": "guessing_game.passwords.models",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordGuess",
+        "kind": 6,
+        "importPath": "guessing_game.passwords.models",
+        "description": "guessing_game.passwords.models",
+        "peekOfCode": "class PasswordGuess(models.Model):\n    user = models.ForeignKey(User, on_delete=models.CASCADE, null=True)\n    guess = models.TextField(validators=[MinLengthValidator(4, \"the field must be 4 characters\")], max_length=4, default=\"0000\")\n    def __str__(self) -> str:\n        return f'{self.guess}'",
+        "detail": "guessing_game.passwords.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "guessing_game.passwords.urls",
+        "description": "guessing_game.passwords.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', passwords, name='home'),\n    path('thanks/', thanks, name='thanks')\n]",
+        "detail": "guessing_game.passwords.urls",
+        "documentation": {}
+    },
+    {
+        "label": "passwords",
+        "kind": 2,
+        "importPath": "guessing_game.passwords.views",
+        "description": "guessing_game.passwords.views",
+        "peekOfCode": "def passwords(request):\n    first_form = GuessPasswordForm()\n    second_form = GuessPasswordForm()\n    third_form = GuessPasswordForm()\n    fourth_form = GuessPasswordForm()\n    fifth_form = GuessPasswordForm()\n    if request.method == 'POST':\n        user = User.objects.get(pk=request.user.pk)\n        if  first_form.is_valid() and  second_form.is_valid()  and  third_form.is_valid()  and  fourth_form.is_valid()  and  fifth_form.is_valid():\n            first = first_form.cleaned_data['guess']",
+        "detail": "guessing_game.passwords.views",
+        "documentation": {}
+    },
+    {
+        "label": "thanks",
+        "kind": 2,
+        "importPath": "guessing_game.passwords.views",
+        "description": "guessing_game.passwords.views",
+        "peekOfCode": "def thanks(request):\n    user = User.objects.get(pk=request.user.pk)\n    user.is_active = False\n    user.save()\n    return render(request, 'passwords/thanks.html')",
+        "detail": "guessing_game.passwords.views",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterConfig",
+        "kind": 6,
+        "importPath": "guessing_game.register.apps",
+        "description": "guessing_game.register.apps",
+        "peekOfCode": "class RegisterConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'register'",
+        "detail": "guessing_game.register.apps",
+        "documentation": {}
+    },
+    {
+        "label": "SignUpForm",
+        "kind": 6,
+        "importPath": "guessing_game.register.forms",
+        "description": "guessing_game.register.forms",
+        "peekOfCode": "class SignUpForm(UserCreationForm):\n    username = forms.CharField(max_length=30)\n    first_name = forms.CharField(max_length=100)\n    last_name = forms.CharField(max_length=100)\n    class Meta:\n        model = User\n        fields = ('username', 'first_name', 'last_name', 'password1', 'password2', )",
+        "detail": "guessing_game.register.forms",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "guessing_game.register.urls",
+        "description": "guessing_game.register.urls",
+        "peekOfCode": "urlpatterns = [\n    path('accounts/', include('django.contrib.auth.urls')),\n    path('', login, name='login_redirect'),\n    path('register/', new_account, name='signup'),\n]",
+        "detail": "guessing_game.register.urls",
+        "documentation": {}
+    },
+    {
+        "label": "generate",
+        "kind": 2,
+        "importPath": "guessing_game.register.views",
+        "description": "guessing_game.register.views",
+        "peekOfCode": "def generate():\n    seed(time())\n    random = randint(0, 9999)\n    if random >= 1000:\n        return str(random)\n    elif random >= 100:\n        return f\"0{random}\"\n    elif random >= 10:\n        return f\"00{random}\"\n    else:",
+        "detail": "guessing_game.register.views",
+        "documentation": {}
+    },
+    {
+        "label": "check_if_password_exist",
+        "kind": 2,
+        "importPath": "guessing_game.register.views",
+        "description": "guessing_game.register.views",
+        "peekOfCode": "def check_if_password_exist(password:str):\n    password_copy = password\n    for user in User.objects.all()[2:-1]:\n            for pw in user.guesspasswordmodel_set.all():\n                if password_copy == pw:\n                    return check_if_password_exist(generate())\n    return password_copy\n# Create your views here.\ndef login(request):\n    return redirect('login')",
+        "detail": "guessing_game.register.views",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "guessing_game.register.views",
+        "description": "guessing_game.register.views",
+        "peekOfCode": "def login(request):\n    return redirect('login')\ndef new_account(request):\n    if request.method == \"POST\":\n        form = SignUpForm(request.POST)\n        if form.is_valid():\n            form.save()\n            random_passwords = [check_if_password_exist(generate()) for _ in range(5)]\n            for password in random_passwords:\n                request.user.guesspasswordmodel_set.create(pw=password)",
+        "detail": "guessing_game.register.views",
+        "documentation": {}
+    },
+    {
+        "label": "new_account",
+        "kind": 2,
+        "importPath": "guessing_game.register.views",
+        "description": "guessing_game.register.views",
+        "peekOfCode": "def new_account(request):\n    if request.method == \"POST\":\n        form = SignUpForm(request.POST)\n        if form.is_valid():\n            form.save()\n            random_passwords = [check_if_password_exist(generate()) for _ in range(5)]\n            for password in random_passwords:\n                request.user.guesspasswordmodel_set.create(pw=password)\n            return redirect('login')\n    else:",
+        "detail": "guessing_game.register.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "guessing_game.manage",
+        "description": "guessing_game.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'guessing_game.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "guessing_game.manage",
+        "documentation": {}
+    }
+]
