@@ -20,10 +20,11 @@ def check_if_password_exist(password:str):
     password_copy = password
     if len(User.objects.all()[2:-1])-2 == 1:
         return password_copy
-    for user in User.objects.all()[2:-1]:
-            for pw in user.guesspasswordmodel_set.all():
-                if password_copy == pw:
-                    return check_if_password_exist(generate())
+    else:
+        for user in User.objects.all()[2:-1]:
+                for pw in user.guesspasswordmodel_set.all():
+                    if password_copy == pw:
+                        return check_if_password_exist(generate())
     return password_copy
 # Create your views here.
 def login(request):
