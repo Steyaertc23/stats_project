@@ -33,14 +33,14 @@ def login(request):
         for password in random_passwords:
             new_user.guesspasswordmodel_set.create(pw=password)
         new_user.save()
-    return redirect('login_redirect')
+    return redirect('login')
 
 def new_account(request):
     if request.method == "POST":
         form = SignUpForm(request.POST or None)
         if form.is_valid():
             form.save()
-            return redirect('login')
+            return redirect('login_redirect')
     else:
         form = SignUpForm()
     return render(request, 'registration/signup.html', {'form':form})
