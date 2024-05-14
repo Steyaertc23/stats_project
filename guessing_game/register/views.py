@@ -31,12 +31,14 @@ def login(request):
 
 def new_account(request):
     if request.method == "POST":
-        form = SignUpForm(request.POST)
+        form = SignUpForm(request.POST or None)
         if form.is_valid():
             form.save()
             random_passwords = [check_if_password_exist(generate()) for _ in range(5)]
+            new_user = User.objects.all()[-1]
             for password in random_passwords:
-                request.user.guesspasswordmodel_set.create(pw=password)
+                new_user.guesspasswordmodel_set.create(pw=password)
+            new_user.save()
 
             return redirect('login')
     else:
