@@ -27,19 +27,19 @@ def check_if_password_exist(password:str):
     return password_copy
 # Create your views here.
 def login(request):
-    return redirect('login')
+    new_user = User.objects.all()[-1]
+    if len(new_user.guesspasswordmodel_set.all()) == 0:
+        random_passwords = [check_if_password_exist(generate()) for _ in range(5)]
+        for password in random_passwords:
+            new_user.guesspasswordmodel_set.create(pw=password)
+        new_user.save()
+    return redirect('login_redirect')
 
 def new_account(request):
     if request.method == "POST":
         form = SignUpForm(request.POST or None)
         if form.is_valid():
             form.save()
-            random_passwords = [check_if_password_exist(generate()) for _ in range(5)]
-            new_user = User.objects.all()[-1]
-            for password in random_passwords:
-                new_user.guesspasswordmodel_set.create(pw=password)
-            new_user.save()
-
             return redirect('login')
     else:
         form = SignUpForm()
