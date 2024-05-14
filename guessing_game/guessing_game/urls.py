@@ -25,5 +25,5 @@ urlpatterns = [
     path('', include('passwords.urls')),
     path('auth/', include('register.urls')),
     path('management/', include('management.urls'))
-] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
 urlpatterns += staticfiles_urlpatterns()
