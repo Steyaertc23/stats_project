@@ -18,7 +18,7 @@ def generate():
 
 def check_if_password_exist(password:str):
     password_copy = password
-    if len(User.objects.all())-2 <= 1:
+    if len(User.objects.all()[2:-1])-2 == 1:
         return password_copy
     for user in User.objects.all()[2:-1]:
             for pw in user.guesspasswordmodel_set.all():
